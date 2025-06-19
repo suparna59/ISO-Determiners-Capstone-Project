@@ -62,6 +62,12 @@ This approach enables analysts to prioritize cases, trace decisions to specific 
 
 ---
 
+## ⚠Disclaimer  
+
+Sensitive datasets used in this project are **not included** in this public repository due to privacy and institutional restrictions.
+
+---
+
 ## Weighted Risk Scoring Model  
 
 **Formula:**  
@@ -97,10 +103,3 @@ This approach enables analysts to prioritize cases, trace decisions to specific 
 - Select Committee on the CCP  
 - TraCCC Research  
 - CDC Report on Fentanyl  
-
----
-
-## ⚠Disclaimer  
-
-Sensitive datasets used in this project are **not included** in this public repository due to privacy and institutional restrictions.
-

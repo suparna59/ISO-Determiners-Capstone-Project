@@ -100,6 +100,6 @@ Sensitive datasets used in this project are **not included** in this public repo
 ---
 
 ## References  
-- Select Committee on the CCP  
-- TraCCC Research  
-- CDC Report on Fentanyl  
+- [Select Committee on the CCP](https://selectcommitteeontheccp.house.gov/)
+- [TraCCC Research](https://traccc.gmu.edu/)
+- [CDC Report on Fentanyl](https://blogs.cdc.gov/nchs/2023/05/03/7338/)
